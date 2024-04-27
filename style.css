@@ -184,5 +184,46 @@
     background-color: grey;
   }
   
-
  
+
+.story-section {
+  background-color: #f9f9f9;
+  padding: 100px 0;
+  background-color: grey;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.story-section h2{
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.story-section p{
+  font-size: 1.1rem;
+  color: white;
+  margin-bottom: 30px;
+  font-size: 20px;
+
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #2e3236;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+.btn:hover {
+  background-color: rgb(228, 219, 219);
+}
